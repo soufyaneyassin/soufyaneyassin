@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @soufyaneyassin
 - 👀 I’m interested in web developement
-- 🌱 I’m currently in internship working with laravel backpack 
-- 💞️ I’m looking to finish my master degree and get my first job on web developement ...
+- 🌱 I have worked  with  laravel packages such laravel backpack/jetstream/voyager/fortify/... 
+- 💞️ I have finished my master degree and i'am open to any job opportunity that will suit my profile ...
 - 📫 How to reach me soufianeyassin98@gmail.com
 
 <!---
