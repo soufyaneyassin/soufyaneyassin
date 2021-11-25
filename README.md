@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @soufyaneyassin
 - 👀 I’m interested in web developement
-- 🌱 I have worked  with  laravel packages such as laravel backpack/jetstream/voyager/fortify/... 
-- 💞️ I have finished my master degree and i'am open to any job opportunity that will suit my profile ...
+- 🌱 I am working with Laravel/VueJS as a full stack developer.
+- 💞️ I have a master degree in intelligent systems and networks.
 - 📫 How to reach me soufianeyassin98@gmail.com
 
 <!---
